@@ -3,111 +3,346 @@ title: Politica de Privacidad
 layout: about.hbs
 ---
 
-# Politica de Privacidad
+# Política de Privacidad
 
-NODE.JS FOUNDATION (la "Fundación") se compromete a proteger la privacidad de sus usuarios. Esta Política de Privacidad (o la "Política") se aplica a sus sitios web (ya sea actualmente o en el futuro compatibles, alojados o mantenidos, incluidos, entre otros, nodejs.org, los "Sitios") y describe la información que la Fundación recopila sobre los usuarios de los Sitios ("usuarios") y cómo se puede usar esa información.
+Fecha de entrada en vigor: 21 de noviembre de 2019
 
-Lea la política de privacidad cuidadosamente. Al usar cualquier Sitio, se considerará que ha aceptado los términos de la Política. Si no acepta aceptar los términos de la Política de privacidad, se le indica que deje de acceder o usar los Sitios o cualquier material obtenido de los Sitios.
+El propósito central de la Fundación OpenJS es fomentar un ecosistema que apoye el desarrollo colaborativo y público de proyectos de software de código abierto (cada uno, un "Proyecto"). Esta política de privacidad ("Política de Privacidad") describe nuestras políticas y procedimientos sobre la recopilación, uso, divulgación y difusión, u otro tratamiento de su información personal cuando usa páginas web de la Fundación OpenJS (por ejemplo, openjsf.org), o la participación o uso de nuestros sitios de Proyecto (colectivamente, los "Sitios"), así como cuando interactúa con o participa en nuestros eventos, programas, entrenamientos y nuestros otros servicios y propuestas (colectivamente, los "Servicios").
 
-## Cambios en la Politica de Privacidad
+Para propósitos del RGPD (Reglamento General de Protección de Datos), la fundación OpenJS (a veces referida a continuación como "nosotros" o "nuestro") es el controlador de su información personal. Cuando el tratamiento de la información personal es realizado en nuestro nombre por la Fundación Linux, son un un controlador conjunto con la Fundación OpenJS para su información personal
 
-La Fundación se reserva el derecho de actualizar y cambiar esta Política de privacidad de vez en cuando. Cada vez que un usuario usa los Sitios, se aplica la versión actual de la Política de privacidad. En consecuencia, un usuario debe verificar la fecha de esta Política de privacidad (que aparece en la parte superior) y revisar cualquier cambio desde la última versión. Si un usuario no está de acuerdo con la Política de privacidad, el usuario no debe usar ninguno de los Sitios. El uso continuo de cualquiera de los Sitios después de cualquier revisión de esta Política de Privacidad constituye la aceptación de cualquier cambio.
+Los términos con mayúscula que no están definidos en esta Política de Privacidad tienen el significado dado en nuestros Términos de Uso (según corresponda, los "Términos"), disponible en [https://terms-of-use.openjsf.org](https://terms-of-use.openjsf.org). En esta Política de Privacidad, la "información personal" incluye referencias a los "datos personales" como se definen bajo las leyes aplicables. Su uso de nuestros Sitios y Servicios, y cualquier disputa sobre privacidad, está sujeta a esta Política y los Términos relevantes, incluyendo las limitaciones aplicables sobre daños y la resolución de disputas. Los Términos se incorporan por referencia en esta Política.
 
-## ¿Qué cubre esta Política de Privacidad?
+La versión más reciente de este documento se puede encontrar en [https://privacy-policy.openjsf.org](https://privacy-policy.openjsf.org).
 
-Esta Política de privacidad cubre el tratamiento de la Fundación de la información agregada recopilada por los Sitios y la información personal que usted proporciona en relación con su uso de los Sitios. Esta Política no se aplica a las prácticas de terceros que la Fundación no posee ni controla, incluidos, entre otros, los servicios de terceros a los que accede a través de la Fundación, ni a las personas que la Fundación no emplea ni administra.
+## Información personal que recolecta la Fundación OpenJS
 
-## Niños menores de 13 años de edad
+Nosotros recolectamos la información personal directamente de los individuos, de terceras partes, y automáticamente a través de los Sitios y Servicios. No tiene que proporcionarnos su información personal. Sin embargo, si elige no divulgar cierta información, nosotros no seremos capaces de proporcionarle acceso a ciertos servicios o características, incluyendo registro de cuenta, registro de evento, programas de entrenamiento y certificación, o participación en ciertos aspectos de nuestros proyectos de código abierto.
 
-A menos que se indique específicamente en un Sitio, los Sitios no están destinados a niños menores de edad (incluidos, entre otros, los menores de 13 años), y no deben usar los Sitios. Si es menor de 18 años, puede usar el Sitio solo con la participación de un padre o tutor o si es un menor emancipado. Excepto como se indique específicamente dentro de un Sitio, no recopilamos ni solicitamos intencionalmente información de, comercializamos o aceptamos servicios de niños. Si nos damos cuenta de que un niño menor de 13 años nos ha proporcionado información personal sin el consentimiento de los padres, tomaremos medidas razonables para eliminar dicha información y cancelar la cuenta del niño. Si se da cuenta de que un niño nos ha proporcionado información de identificación personal sin el consentimiento de los padres, contáctenos en privacy@nodejs.org para que podamos eliminar la información.
+### Información de registro.
 
-## Información sobre los Usuarios que Recopila la Fundación
+Nosotros recolectamos la información personal cuando se registra en una cuenta, una conferencia u otros eventos o programas:
 
-En los Sitios, los usuarios pueden solicitar productos o servicios y registrarse para recibir materiales. La información recopilada en los Sitios incluye contenido del foro comunitario, diarios, perfiles, fotografías, nombres, identificadores únicos (p. Ej., Identificadores de redes sociales o nombres de usuario), información de contacto y facturación (p. Ej., Dirección de correo electrónico, dirección postal, teléfono, fax) y transacciones. información. Para acceder a ciertos servicios personalizados en los Sitios, es posible que se le solicite que también cree y almacene un nombre de usuario y contraseña para una cuenta de la Fundación.
+#### ID del sistema, información de cuenta y perfil.
 
-Para adaptar las comunicaciones posteriores de la Fundación a los usuarios y mejorar continuamente los productos y servicios de los Sitios, la Fundación también puede solicitar a los usuarios que proporcionen información sobre sus intereses, datos demográficos, experiencia y preferencias de contacto detalladas. La Fundación y las compañías de publicidad de terceros pueden rastrear información sobre el uso de los Sitios por parte de un usuario, como la dirección IP de un usuario.
+Los usuarios pueden registrarse, con solicitud, o pedir nuestros Servicios y pueden registrarse para recibir materiales en nuestros Sitios. Los usuarios también pueden pedir crear un "ID de Fundación Linux", que es una cuenta de inicio de sesión único que se usa para acceso común a muchos de nuestros Servicios. La información personal recolectada en los Sitios incluye contenido de los foros de comunidad, perfiles, fotografías, nombres, identificadores únicos (por ejemplo, usuarios o alias de redes sociales), contacto e información de facturación (por ejemplo, dirección de email, dirección posta, teléfono, fax), e información de transacción. Para acceder a ciertos servicios personalizados en los Sitios, se le puede pedir también crear y guardar un nombre de usuario y contraseña para una cuenta de la Fundación Linux. También, para ajustar subsecuentes comunicaciones a los usuarios y mejorar continuamente las operaciones y servicios de los Sitios, la Fundación OpenJS también puede pedir a los usuarios proporcionar información opcional adicional respecto a sus intereses, demografía, experiencia y preferencias de contacto detalladas.
 
-## Cómo utiliza la Fundación la Información Recopilada
+#### Registro de eventos.
 
-La Fundación puede usar la información recopilada para cualquier propósito legal relacionado con los negocios de la Fundación, incluidos, entre otros:
+Cuando se registra para uno de nuestros eventos (por ejemplo, conferencias y cumbres) para participar como un asistente, un orador o un patrocinador, nosotros recolectamos la información personal que incluye nombre, compañía, información de contacto, y otra información. Nosotros podemos también recolectar otra información personal opcional como gustos, intereses, restricciones alimenticias, preferencias de talle para regalos de vestuario de la conferencia y otra información de fondo. Además, si la proporciona, podemos recolectar (1) información personal sobre discapacidades, condiciones médicas y alergias para proporcionar las comodidades apropiadas para los asistentes, y (2) información personal sobre su ciudadanía, fecha de nacimiento, y detalles de pasaporte si requiere asistencia de nosotros para la obtención de la visa para viajar a uno de nuestros eventos.
 
-* Para comprender las necesidades de un usuario y crear contenido que sea relevante para el usuario;
-* Para generar estudios estadísticos;
-* Para llevar a cabo investigaciones de mercado y planificación mediante el envío de encuestas de usuarios;
-* Para notificar a los usuarios los referidos de servicios, información o productos cuando un usuario solicita que la Fundación envíe dicha información a los referidos;
-* Para mejorar los servicios, información y productos;
-* Para ayudar a un usuario a completar una transacción, o proporcionar servicios o atención al cliente;
-* Para comunicarse con el usuario;
-* Para actualizar al usuario sobre servicios, información y productos;
-* Para personalizar un sitio para el usuario;
-* Para notificar al usuario de cualquier cambio en un Sitio que pueda afectar al usuario;
-* Para hacer cumplir los términos de uso en un Sitio; y
-* Para permitir al usuario comprar productos, acceder a servicios o participar en actividades que el usuario seleccione.
+#### Registro para el examen de entrenamiento y certificación.
 
-Los nombres de usuario, las identificaciones ("ID") y las direcciones de correo electrónico (así como cualquier información adicional que un usuario pueda elegir publicar) pueden estar disponibles públicamente en un Sitio cuando los usuarios divulguen información personal voluntaria y públicamente, como cuando un usuario publica información junto con contenido sujeto a una licencia de Código Abierto, o como parte de un mensaje publicado en un foro público o una aplicación de software lanzada públicamente. La información personal que puede proporcionar a la Fundación puede revelar o permitir a otros discernir aspectos de su vida que no están expresamente establecidos en su perfil (por ejemplo, su foto o su nombre pueden revelar su color de pelo, raza o edad aproximada). Al proporcionarnos información personal cuando crea o actualiza su cuenta y perfil o publica una fotografía, acepta expresamente y voluntariamente nuestros Términos de uso y acepta y acepta libremente nuestro procesamiento de su información personal de la manera establecida por esta Política de privacidad . El suministro de información a nosotros, incluida cualquier información considerada "sensible" por la ley aplicable, es totalmente voluntaria de su parte. Puede retirar su consentimiento para que la Fundación recopile y procese su información cerrando su cuenta. Debe tener en cuenta que su información puede seguir siendo visible para otros después de cerrar su cuenta, como en las páginas almacenadas en caché en los motores de búsqueda de Internet. Es posible que los usuarios no puedan cambiar o eliminar publicaciones públicas una vez publicadas. Los visitantes de estas páginas pueden utilizar dicha información para enviar mensajes no solicitados. La Fundación no se hace responsable de las consecuencias que puedan derivarse del uso de información por parte de un tercero que un usuario elige enviar a páginas públicas.
+Cuando participa en uno de nuestros programas de entrenamiento y certificación, nosotros recolectamos información personal relacionada al registro que incluye nombre, compañía, certificaciones, información de contacto, y otra información dependiendo de las circunstancias.
 
-## Optar por No
+#### Registro para recursos de proyecto y recursos de la Fundación OpenJS.
 
-Un usuario siempre podrá tomar la decisión de continuar con cualquier actividad que solicite información personal, incluida información de identificación personal. Si un usuario no proporciona la información solicitada, es posible que el usuario no pueda completar ciertas transacciones.
+Puede registrarse para recibir acceso a los diferentes recursos proporcionados por la Fundación OpenJS y sus Proyectos respecto al ecosistema de código abierto, desarrollo, colaboración y mejores prácticas de proyectos de código abierto. Esto incluye proporcionarnos información personal como dirección de email y nombre para recibir revistas, publicaciones en listas de correo y publicaciones en redes sociales, para ver conferencias web, y acceder a otros recursos disponibles por la Fundación OpenJS y sus Proyectos.
 
-Los usuarios no tienen licencia para agregar otros usuarios a un Sitio (incluso los usuarios que realizaron transacciones con ellos) o sus listas de correo sin consentimiento por escrito.
+### Sus contribuciones a los proyectos de código abierto.
 
-La Fundación alienta a los usuarios a evaluar las políticas de privacidad y seguridad de cualquiera de los socios de transacción de los Sitios antes de realizar transacciones o elegir revelar información.
+Atribución, procedencia e integridad. Cuando contribuye código fuente, documentación u otro contenido a uno de nuestros Proyectos (ya sea de usted mismo o a través de contribuciones hechas como parte de sus servicios de empleo a su empleador), nosotros recolectamos y guardamos la información y contenido que contribuye. Esto incluye los contenidos de esas contribuciones, así como la información requerida para confirmar la procedencia de la propiedad intelectual contenida en esas contribuciones, e información personal que hace públicamente disponible en el registro de acuerdo de contribución para aprobaciones bajo el Certificado de Desarrollo de Origen ([https://developercertificate.org/](https://developercertificate.org/)). Algunos Proyectos requieren acuerdos adicionales o acuerdos de información a sus políticas de propiedad intelectual; en dichos casos recolectamos y guardamos la información relacionada a su aceptación de esos acuerdos. Nosotros podemos también recolectar información relacionada a su participación en reuniones técnicas, de gestión pública o relacionadas a otros Proyectos.
 
-## Email
+Contenido relacionado a otros Proyectos. El contenido que proporciona en relación a Proyectos también incluye materiales que hace públicamente disponible en conexión con el desarrollo, colaboración y comunicación del Proyecto, así como listas de correo, blogs, páginas de wiki del Proyecto y seguimiento de incidencias, y servicios relacionados.
 
-La Fundación puede usar (o proporcionar a la Fundación Linux u otros contratistas externos para que la usen) la información de contacto recibida por la Fundación para enviar un correo electrónico a cualquier usuario con respecto a cualquier oportunidad, evento o evento de la Fundación Linux (un "Proyecto") o otro asunto
+Candidatos a internados o empleo de la Fundación OpenJS. Nosotros recolectamos y guardamos información personal relacionada a los individuos que solicitan participar en uno o más de nuestros internados relacionados a Proyectos. La información personal recolectada y guardada para internados relacionados a Proyectos, puede incluir su nombre, dirección, u otra información de contacto. Además, si elige proporcionarla, nosotros podemos recolectar información personal respecto a su membresía en un grupo diverso o subrepresentado.
 
-Si un usuario ya no desea recibir correos electrónicos de la Fundación o de cualquier Proyecto o Sitio, la Fundación (o, si corresponde, tendrá The Linux Foundation) proporcionará instrucciones en cada uno de sus correos electrónicos sobre cómo eliminarse de las listas. La Fundación hará esfuerzos comercialmente razonables para cumplir con tales solicitudes.
+Su contenido. Nosotros recolectamos y guardamos la información y contenido que publica en los Sitios, incluyendo sus preguntas, respuestas, comentarios, publicaciones en foros, y respuestas a encuestas. Por favor vea la sección de Información disponible públicamente de cómo la información que publica será vista en nuestros sitios.
 
-## Fotografías
+Comunicaciones. Cuando se comunica con nosotros (vía email, teléfono, a través de los Sitios o de otra forma), nosotros podemos mantener un registro de su comunicación.
 
-Los usuarios pueden tener la oportunidad de enviar fotografías a los Sitios para promociones de productos, concursos y otros fines que se divulgarán en el momento de la solicitud. En estas circunstancias, los Sitios están diseñados para permitir al público ver, descargar, guardar y acceder a las fotografías publicadas. Al enviar una fotografía, los usuarios renuncian a cualquier expectativa de privacidad que los usuarios tengan con respecto a la seguridad de dichas fotografías y al uso o explotación por parte de la Fundación de la semejanza de los usuarios. Puede enviar una fotografía solo si es el titular de los derechos de autor o si está autorizado para hacerlo bajo licencia del titular de los derechos de autor, y al enviar una fotografía acepta indemnizar y eximir de responsabilidad a la Fundación, sus directores, funcionarios, empleados y agentes de cualquier reclamo que surja de su envío. Al enviar una fotografía, usted otorga a la Fundación una licencia perpetua, mundial y libre de regalías para usar la fotografía en cualquier medio que ahora se conozca de aquí en adelante inventado para cualquier propósito comercial que la Fundación, a su exclusivo criterio, pueda decidir.
+Información de pago. Para comprar Servicios (incluyendo registros para eventos, entrenamiento y exámenes de certificación), se puede dirigir al usuario a un sitio de terceros, como Stripe, para pagar por sus compras. Si aplica, el sitio de terceros puede recolectar información de pago directamente para facilitar una transacción. La Fundación OpenJS generalmente solo registra el resultado de la transacción y cualquier referencia al registro de transacción proporcionado por el sitio de terceros.
 
-## Enlaces a Sitios y Servicios de Terceros
+Información recolectada automáticamente. Además, la Fundación OpenJS puede recolectar automáticamente la siguiente información sobre el uso de los usuarios de los Sitios y Servicios a través de las cookies, balizas web, y otras tecnologías: su nombre de dominio; su tipo de navegador y sistema operativo; páginas web que visita; enlaces que cliquea; su dirección IP; la longitud de tiempo que visita nuestros Sitios y/o utiliza nuestros Servicios; y la URL referida, o la página web que le dirige a nuestros Sitios. Nosotros podemos combinar esta información con otra información que hemos recolectado sobre usted, incluyendo, cuando corresponda, su nombre de usuario, nombre y otra información personal. Por favor vea nuestra [Política de Cookies](https://www.linuxfoundation.org/cookies/) para más información sobre nuestro uso de cookies.
 
-Los Sitios pueden permitirle acceder o vincular a sitios web e información de terceros en Internet, y otros sitios web pueden contener enlaces a los Sitios. Cuando un usuario usa estos enlaces, el usuario abandona los Sitios. La Fundación no ha revisado estos sitios de terceros, no controla ni es responsable de ninguno de los sitios de terceros, su contenido o prácticas de privacidad. Las prácticas de privacidad y seguridad de los sitios web a los que se accede desde los Sitios no están cubiertas por esta Política de privacidad, y la Fundación no es responsable de las prácticas de privacidad o seguridad ni del contenido de dichos sitios web, incluidos, entre otros, los servicios de terceros a los que accede a través de la Fundación. Si un usuario decide acceder a cualquiera de los sitios vinculados, la Fundación lo alienta a leer las declaraciones de privacidad de esos sitios. El usuario accede a dichos sitios bajo su propio riesgo.
+Información despersonalizada. Nosotros podemos despersonalizar y agregar cierta información personal que recolectamos como la información que ya no identifica o puede estar enlazada a un usuario en particular o a un sujeto de datos individuales ("Información despersonalizada"), sujeta a los términos de cualquier acuerdo de usuario aplicable. Nosotros podemos usar esta información para mejorar nuestros Servicios, analizar tendencias, publicar investigaciones de mercado, y para otros propósitos de marketing, investigación o estadísticos, y podemos divulgar dicha información a terceros para estos propósitos específicos.
 
-Podemos recibir información cuando utiliza su cuenta para iniciar sesión en un sitio o aplicación de terceros con el fin de recomendarle contenido personalizado o publicidad y mejorar su experiencia de usuario en nuestro sitio. Podemos proporcionar informes que contengan información de impresión agregada a terceros para medir el tráfico de Internet y los patrones de uso.
+## Propósitos y bases legales para nuestro uso de su información personal
 
-## Órdenes de Servicio
+### Propósitos e intereses legítimos
 
-Para comprar servicios, se les puede pedir a los usuarios que se los dirija a un sitio de terceros, como PayPal, para pagar sus compras. Si corresponde, el sitio de terceros puede recopilar información de pago directamente para facilitar una transacción. La Fundación solo registrará el resultado de la transacción y cualquier referencia al registro de transacción proporcionado por el sitio de terceros. La Fundación no es responsable de los servicios prestados o de la información recopilada en dichos sitios de terceros.
+La Fundación OpenJS y la Fundación Linux usan la información personal que recolectamos para nuestros intereses de negocio legítimos, que incluyen los siguientes propósitos:
 
-## Compartir Información
+* Proveer nuestros Sitios y Servicios. Para proveer los Servicios y nuestro Sitios (incluyendo Sitios de Proyecto), para comunicarse con usted sobre su uso de nuestros Sitios y Servicios, para responder sus consultas, proveer resolución de problemas de los Sitios y para otros propósitos para apoyar a los usuarios y la comunidad.
+* Operar nuestros Proyectos de Código Abierto. Para permitir la comunicación entre los desarrolladores de código abierto en la comunidad; para facilitar y documentar la dirección y la toma de decisiones técnicas del Proyecto; para mantener, y hacer públicamente disponible en una base perpetua, registros respecto al origen de la propiedad intelectual y el acuerdo de licencia para contribuciones del Proyecto; y para actividades relacionadas a promover nuestros propósitos centrales de fomentar un ecosistema que apoye el desarrollo colaborativo y público de proyectos de software libre y de código abierto. Vea la sección anterior de "Atribución, procedencia e integridad" para más información.
+* Mantener nuestros Programas de Entrenamiento y Certificación. Para mantener registros acerca de quién ha asistido o se ha registrado para asistir a programas de entrenamiento, tomado exámenes de certificación y recibido ciertas certificaciones.
+* Administración de eventos. Para planificar, organizar, y facilitar acceso a eventos y servicios y actividades relacionadas, y para llevar a cabo eventos informativos y seguros para participantes, incluyendo asistentes, oradores y patrocinadores. Si nos proporciona información sobre discapacidades, condiciones médicas y alergias, utilizaremos esta información para proveer comodidades apropiadas para los asistentes para asegurar su salud y seguridad; no utilizaremos esta información para otros propósitos, a menos que sea requerido por la ley o cuando sea necesario para defender nuestros derechos legales. Si requiere asistencia de nosotros para obtener una visa para viajar a uno de nuestros eventos y nos proporciona la información requerida para dicha asistencia (como su ciudadanía, fecha de nacimiento y detalles del pasaporte), utilizaremos esta información para asistir proporcionándole una visa; no utilizaremos esta información para otros propósitos, a menos que sea requerido por la ley o cuando sea necesario para defender nuestros derechos legales.
+* Solicitud de internado. Para seleccionar los participantes para nuestros programas de internado relacionados al Proyecto, incluyendo la evaluación y selección de internos y empleados de entre los interesados. Si elige proporcionar información respecto a su membresía en un grupo diverso o subrepresentado, utilizaremos esta información en conexión con programas de diversidad de internados que puedan operar; no utilizaremos esta información para otros propósitos, a menos que sea requerido por la ley o cuando sea necesario para defender nuestros derechos legales.
+* Personalización. Para adaptar el contenido e información que podemos enviarle o mostrarle en nuestros Sitios y en nuestros Servicios, para ofrecer personalización de ubicación y ayuda e instrucciones personalizada y para de otra manera personalizar experiencias.
+* Marketing y Promociones. Para propósitos promocionales y de marketing, como venderle noticias y revistas, ofertas especiales y promociones, u otros nos contactaremos con usted sobre Proyectos, Servicios, eventos, entrenamientos u otra información que creamos que le interese relacionada a la Fundación OpenJS, y, sujetos a la ley aplicable, nuestros proveedores de servicio.
+* Publicidad. Para focalizar la publicidad en usted en nuestros Sitios y sitios de terceros y medir la efectividad y alcance de los anuncios y servicios (a través de redes y servicios de anuncios de terceros).
+* Análisis. Para reunir métricas para entender mejor cómo los usuarios acceden y usan nuestros Sitios y Servicios y participan en nuestros Proyectos; para evaluar y mejorar los Sitios, incluyendo personalización, para desarrollar nuevos servicios; y para entender métricas respecto a la salud de la comunidad de nuestros Proyectos. Si un usuario voluntario proporciona y explícitamente consiente nuestro procesamiento de información personal respecto a su demografía y socioeconomía, procesamos dicha información personal para los propósitos específicos para los cuales ha consentido, que puede incluir para el propósito de recopilar, analizar y divulgar estadísticas globales respecto a la diversidad de participación en proyectos de código abierto y comunidades, para ayudar a rastrear el progreso hacia el cumplimiento del compromiso de la Fundación OpenJS a las inciativas de diversidad y sujetas a su consentimiento.
+* Cumplimiento. Para cumplir con las peticiones y obligaciones legales. Por ejemplo, para cumplir con las leyes que nos obligan a divulgar información a las autoridades públicas, cortes, fuerzas de la ley o reguladores, mantener registros por un cierto periodo, o mantener registros demostrando cumplimiento y subconcesión de nuestras marcas registrada y de nuestros Proyectos.
+* Operaciones de Negocio y Legales. Como parte de nuestras operaciones de negocio y legales (por ejemplo, contabilidad, mantenimiento de registros, y para otros propósitos de administración de negocios), y cuando sea necesario para establecer, ejercer y defender demandas legales (efectivas y posibles).
+* Prevenir el Uso Indebido. Cuando lo creamos necesario para investigar, prevenir o tomar acciones respecto a actividades ilegales, fraude sospechoso, situaciones que involucren amenazas potenciales a la seguridad de cualquier persona o violaciones de los Términos relevantes o de esta Política de Privacidad.
 
-La Fundación puede divulgar información personal o agregada que esté asociada con su perfil como se describe en esta Política de Privacidad, según lo permita la ley o sea razonablemente necesario para: (1) cumplir con un requisito o proceso legal, que incluye, entre otros, civil y citaciones penales, órdenes judiciales u otras divulgaciones obligatorias; (2) investigar y hacer cumplir esta Política de privacidad o nuestros Términos de uso vigentes en ese momento, si corresponde; (3) responder a reclamos de una violación de los derechos de terceros; (4) responder a consultas de servicio al cliente; (5) proteger los derechos, la propiedad o la seguridad de la Fundación, nuestros usuarios o el público; o (6) como parte de la venta de todos o una parte de los activos de la Fundación o como un cambio en el control de la organización o una de sus afiliadas o en preparación para cualquiera de estos eventos. La Fundación se reserva el derecho de proporcionar dicha información a cualquier organización en la que la Fundación pueda fusionarse en el futuro o a la que pueda realizar cualquier transferencia. Cualquier tercero al que la Fundación transfiera o venda todos o alguno de sus activos tendrá derecho a utilizar la información personal y de otro tipo que usted proporcione de la manera establecida en esta Política de privacidad.
+### Propósitos y bases legales
 
-## ¿Está segura la información sobre mí?
+<table>
+  <tr>
+   <td>Propósitos de procesamiento
+<p>
+(ver arriba)
+   </td>
+   <td>Bases legales de procesamiento (Usuarios de la Unión Europea)
+   </td>
+  </tr>
+  <tr>
+   <td>Proveer nuestros Sitios y Servicios
+   </td>
+   <td>
+<ul>
 
-Para mantener su información segura, evitar el acceso o divulgación no autorizados, mantener la precisión de los datos y garantizar el uso adecuado de la información, la Fundación implementa procedimientos físicos, electrónicos y administrativos estándar de la industria para salvaguardar y asegurar la información que la Fundación recopila. Sin embargo, la Fundación no garantiza que terceros no autorizados nunca derrotarán las medidas tomadas para evitar el uso indebido de información de identificación personal.
+<li>Nuestros intereses de negocio legítimos
 
-El acceso a la información de identificación personal no pública de los usuarios está restringido al personal de la Fundación y de la Fundación Linux, incluidos los contratistas de cada una de esas organizaciones según sea necesario.
+<li>Cuando sea necesario entrar en o realizar un contrato con usted (bajo su solicitud, o cuando sea necesario hacer disponibles los Servicios)
 
-Las contraseñas de usuario son claves para las cuentas. Utilice números únicos, letras y caracteres especiales para las contraseñas y no divulgue las contraseñas a otras personas para evitar la pérdida del control de la cuenta. Los usuarios son responsables de todas las acciones tomadas en sus cuentas. Notifique a la Fundación sobre cualquier compromiso de contraseña y cambie las contraseñas periódicamente para mantener la protección de la cuenta.
+<li>Cumplimiento con la ley
 
-En el caso de que la Fundación se dé cuenta de que la seguridad de un Sitio se ha visto comprometida o la información de identificación personal del usuario se ha revelado a terceros no relacionados como resultado de una actividad externa, incluidos, entre otros, ataques de seguridad o fraude, la Fundación se reserva el derecho tomar medidas razonables y apropiadas, que incluyen, entre otras, la investigación y presentación de informes, y la notificación y la cooperación con las autoridades policiales.
+<li>Cuando sea permitido, con su consentimiento (cuando procesamos cualquier información personal sensible que proporciona voluntariamente – por ejemplo, para propósitos relacionados a la diversidad)
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Operar nuestros proyectos de código abierto
+   </td>
+   <td>
+<ul>
 
-Si bien nuestro objetivo es mantener los datos de acceso no autorizado o inseguro, modificación o destrucción, ningún método de transmisión en Internet o método de almacenamiento electrónico es 100% seguro y no podemos garantizar su seguridad absoluta.
+<li>Nuestros intereses de negocio legítimos
 
-## Protección de Datos
+<li>Cuando sea necesario entrar en o realizar un contrato con usted (bajo su solicitud, o cuando sea necesario para permitir su participación en los proyectos o para hacer disponibles los Servicios)
 
-Dado el alcance internacional de la Fundación, la información personal puede ser visible para personas fuera de su país de residencia, incluidas las personas en países que las leyes y regulaciones de privacidad de su propio país consideran deficientes para garantizar un nivel adecuado de protección para dicha información. Si no está seguro de si esta declaración de privacidad está en conflicto con las normas locales aplicables, no debe enviar su información. Si se encuentra dentro de la Unión Europea, debe tener en cuenta que su información se transferirá a los Estados Unidos, que la Unión Europea considera que tiene una protección de datos inadecuada. Sin embargo, de conformidad con las leyes locales que implementan la Directiva de Privacidad de la Unión Europea sobre la protección de las personas con respecto al procesamiento de datos personales y sobre la libre circulación de dichos datos, las personas ubicadas en países fuera de los Estados Unidos de América que envían información personal por lo tanto, consiente el uso general de dicha información según lo dispuesto en esta Política de privacidad y su transferencia y / o almacenamiento en los Estados Unidos de América. Al utilizar cualquier Sitio y / o proporcionarnos información personal directamente, usted acepta y reconoce su comprensión de los términos de esta Política de privacidad, y acepta que sus datos personales sean transferidos y procesados ​​en los Estados Unidos y / o en otros jurisdicciones según lo determine la Fundación, a pesar de su país de origen, o país, estado y / o provincia de residencia. Si no desea que la Fundación recopile y utilice su información personal, no visite ni use los Sitios.
+<li>Cumplimiento con la ley
 
-## Ley que Rige
+<li>Cuando sea necesario para establecer, ejercer o defender demandas legales
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Solicitudes de internado y empleo
+   </td>
+   <td>
+<ul>
 
-Esta Política de privacidad se rige por las leyes del Estado de California, Estados Unidos de América, sin dar efecto a los principios de conflictos de leyes.
+<li>Nuestros intereses de negocio legítimos
 
-## Derechos de Privacidad de California
+<li>Cuando sea necesario entrar en o realizar un contrato con usted (bajo su solicitud, o cuando sea necesario relacionado a su solicitud para un internado)
 
-La Acción de Protección de Privacidad en Línea de California ("CalOPPA") permite a los clientes que son residentes de California y que han proporcionado a la Fundación "información personal" tal como se define en CalOPPA, solicitar cierta información sobre la divulgación de información a terceros para sus fines de marketing directo. Si es residente de California y tiene alguna pregunta sobre esta disposición, comuníquese con privacy@nodejs.org.
+<li>Cumplimiento con la ley
 
-Tenga en cuenta que la Fundación no responde a las señales de "no rastrear" u otros mecanismos similares destinados a permitir a los residentes de California optar por el seguimiento de Internet bajo CalOPPA. La Fundación puede rastrear y / o divulgar sus actividades en línea a lo largo del tiempo y en diferentes sitios web a terceros cuando utiliza nuestros servicios.
+<li>Cuando sea permitido, con su consentimiento (cuando procesamos cualquier información personal sensible que proporciona voluntariamente – por ejemplo, para propósitos relacionados a la diversidad)
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Administración de eventos
+   </td>
+   <td>
+<ul>
 
-## Qué hacer en Caso de Pérdida o Robo de Información
+<li>Nuestros intereses de negocio legítimos
 
-Debe notificarnos de inmediato si se da cuenta de que cualquier información proporcionada o enviada a nuestro Sitio oa través de nuestro Producto se pierde, es robada o se usa sin permiso en privacy@nodejs.org.
+<li>Cuando sea necesario entrar en o realizar un contrato con usted (bajo su solicitud, o cuando sea necesario hacer disponibles los Servicios)
 
-## Preguntas o Inquietudes
+<li>Cumplimiento con la ley
 
-Si tiene alguna pregunta o inquietud con respecto a la privacidad en la Fundación, envíenos un mensaje detallado a [privacy@nodejs.org](mailto:privacy@nodejs.org).
+<li>Con su consentimiento (en particular respecto a su información personal sensible – por ejemplo, discapacidad o condiciones médicas e información relacionada a una solicitud de visa)
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Ofrecer programas de entrenamiento y certificación
+   </td>
+   <td>
+<ul>
+
+<li>Nuestros intereses de negocio legítimos
+
+<li>Cuando sea necesario entrar en o realizar un contrato con usted (bajo su solicitud, o cuando sea necesario hacer disponibles los Servicios)
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Personalización
+   </td>
+   <td>
+<ul>
+
+<li> Nuestros intereses de negocio legítimos
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Marketing y promociones
+   </td>
+   <td>
+<ul>
+
+<li>Nuestros intereses de negocio legítimos, y los de la Fundación Linux
+
+<li>Con su consentimiento
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Publicidad
+   </td>
+   <td>
+<ul>
+
+<li>Nuestros intereses de negocio legítimos
+
+<li>Con su consentimiento
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Análisis
+   </td>
+   <td>
+<ul>
+
+<li> Nuestros intereses de negocio legítimos
+
+<li>Cuando sea permitido, con su consentimiento (cuando procesamos cualquier información personal sensible que proporciona voluntariamente – por ejemplo, para propósitos relacionados a la diversidad)
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Cumplimiento
+   </td>
+   <td>
+<ul>
+
+<li>Nuestros intereses de negocio legítimos
+
+<li>Cumplimiento con la ley
+
+<li>Cuando sea necesario para establecer, ejercer o defender demandas legales
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Operaciones de negocio y legales
+   </td>
+   <td>
+<ul>
+
+<li>Nuestros intereses de negocio legítimos
+
+<li>Cumplimiento con la ley
+
+<li>Cuando sea necesario para establecer, ejercer o defender demandas legales
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Prevenir el uso indebido
+   </td>
+   <td>
+<ul>
+
+<li>Nuestros intereses de negocio legítimos
+
+<li>Cumplimiento con la ley
+
+<li>Cuando sea necesario para establecer, ejercer o defender demandas legales
+</li>
+</ul>
+   </td>
+  </tr>
+</table>
+
+## Divulgación de información personal
+
+Nosotros divulgamos la información personal como se establece a continuación, y cuando los individuos lo han consentido de otra manera:
+
+* Información disponible públicamente, incluyendo sus contribuciones a proyectos de código abierto. Nombres de usuario, otros ids de usuario, direcciones de email y otra información de atribución relacionada a la información y contribuciones que un Usuario publica en conjunto con o sujeto a una licencia de código abierto que están públicamente disponibles en los repositorios de código abierto del proyecto relevante. Sus contribuciones a proyectos de código abierto, y ciertos de sus otros contenidos como comentarios y mensajes publicados a foros públicos, están disponibles a otros participantes y usuarios de nuestros Proyectos y de nuestros Servicios, y se pueden ver públicamente. En algunos casos puede ser capaz de proporcionar información relacionada al proyecto o a la contribución directamente a sitios de terceros y servicios; estos terceros son controladores de datos independientes y su uso de su información personal está sujeto a sus propias políticas.
+* Proveedores de servicio. Nosotros podemos compartir su información con proveedores de servicio de terceros que usan esta información para prestarnos servicios, como procesadores de pago, proveedores de hosting, auditores, contratistas y consultores. Además, la Fundación Linux presta servicios para la Fundación OpenJS como un proveedor de servicios gestionado con respecto a nuestros Proyectos. En dichos casos, nosotros podemos compartir con la Fundación Linux los mismos tipos de datos que se describen anteriormente, haciendo eso en el fomento de prestación de Servicios para esos Proyectos. La política de privacidad de la Fundación Linux está disponible en [https://www.linuxfoundation.org/privacy/](https://www.linuxfoundation.org/privacy/).
+* Eventos organizacionales. Nosotros podemos divulgar o transferir información, incluyendo información personal, como parte de la unión, venta, y transferencia de nuestros activos, o reestructuración de todas o parte de nuestras operaciones de negocio, quiebra, o evento similar, incluyendo en negociaciones, diligencia debida, e integraciones relacionadas a dichas transacciones.
+* Participantes de evento. Si se registra para un evento, nosotros podemos pedirle su consentimiento para compartir su información personal con patrocinadores de terceros y otros participantes; por ejemplo, para facilitar su capacidad de pasar su credencial para registrarse fácilmente o participar en actividades, eventos y regalos ofrecidos por terceros que participan en el evento, o para darle la opción de ser listado en la lista de asistentes que está disponible para otro asistente, patrocinadores y participantes. Nosotros no compartiremos su información del evento con terceros sin su consentimiento, y en particular tiene la opción si permite o no pasar su credencial por cualquier tercero que participa en el evento.
+* Patrocinadores de entrenamiento y programas. Si participa en uno de nuestros programas de certificación o entrenamiento que un tercero ha patrocinado o participado para proveerle a usted y otros (por ejemplo, sus empleadores), nosotros podemos recibir la información de la lista de asistentes de ellos y podemos compartir información sobre su finalización del programa, incluyendo la confirmación de su participación y los resultados de su examen de certificación, si procede; estos terceros son controladores de datos independientes y su uso de su información personal está sujeto a sus propias políticas. Puede también elegir proporcionar a los terceros (por ejemplo, sus empleadores o futuros empleadores) información que les permitirá consultar el estado de su examen de certificación; si hace eso, nosotros podemos compartir el estado de su examen de certificación con dichos terceros.
+* Requerido legalmente. Nosotros podemos divulgar su información si se nos lo requiere por ley (incluyendo a fuerzas de la ley en los Estados Unidos y otras jurisdicciones).
+* Protección de derechos. Nosotros podemos divulgar información cuando lo creamos necesario para responder demandas impuestas contra nosotros o, para cumplir con procesos legales (por ejemplo, comparecencias o allanamientos), aplicar o administrar nuestros acuerdos y términos, para prevención de fraude, evaluación de riesgo, investigación y proteger los derechos, propiedad o seguridad de la Fundación OpenJS, sus Usuarios, participantes de sus eventos o Proyectos, u otros.
+* Información anonimizada y conjunta. Nosotros podemos compartir información conjunta o despersonalizada con terceros para investigación, marketing, análisis y otros propósitos, provista dicha información no identifica un individuo particular.
+
+## Cookies, rastreo, y anuncios basados en intereses
+
+Nosotros y nuestros proveedores de terceros usamos cookies, etiquetas GIFs/píxel transparentes, JavaScript, almacenamiento local, archivos de registro y otros mecanismos para recolectar automáticamente y registrar información sobre sus actividades de uso y navegación en nuestro Sitio y a través de los sitios o servicios en línea de terceros. Nosotros podemos combinar esta información con otra información que recolectamos sobre los usuarios. A continuación, proporcionamos un breve resumen de estas actividades. Para información más detallada sobre estos mecanismos y cómo recolectamos la información de actividad, vea nuestra [Política de Cookies](https://www.linuxfoundation.org/cookies/).
+
+* Cookies. Estos son archivos pequeños con un identificador único que son transferidos a su navegador a través de nuestros sitios web. Nos permiten recordar a los usuarios que están con la sesión iniciada, para entender cómo los usuarios navegan a través de los Sitios y cómo los usan, y para mostrar contenido personalizado y anuncios dirigidos (incluyendo en sitios de terceros y aplicaciones).
+* Píxeles, balizas web, GIFs transparentes. Estos son gráficos diminutos con un identificador único, similares en función a las cookies, que rastrean las actividades de navegación. Nosotros utilizamos estos como parte de nuestro Programa de Afiliados de Entrenamiento. Nosotros también usamos estos en nuestros emails para hacernos saber cuando han sido abiertos o reenviados, así podemos evaluar la efectividad de nuestras comunicaciones.
+* Herramientas de análisis. Nosotros podemos utilizar herramientas de análisis internas y de terceros, incluyendo [Google Analytics](https://support.google.com/analytics/answer/6004245?hl=en). Las compañías de análisis de terceros con las que trabajamos pueden combinar la información recolectada con otra información que ellos han recolectado independientemente de otros sitios web y/u otros productos y servicios. Su colección y uso de la información están sujetos a sus propias políticas de privacidad.
+
+Por favor tenga en cuenta que la Fundación OpenJS no responde a las señales "no rastrear" de los navegadores u otros mecanismos similares destinados a eso.
+
+Anuncios dirigidos. Como discutimos en nuestra Política de Cookies, nosotros podemos trabajar con anunciantes de terceros para mostrar anuncios más relevantes en nuestros sitios web y en sitios de terceros; estos terceros pueden mostrarle anuncios basados en su visita a nuestros Sitios y otros sitios de tercero. Para más información sobre esto y cómo puede excluirse de dichos anuncios, por favor vea nuestra [Política de Cookies](https://www.linuxfoundation.org/cookies/).
+
+## Seguridad de datos
+
+Nosotros hemos implementado precauciones comercialmente razonables diseñadas para proteger la información que recolectamos de la pérdida, uso indebido y acceso no autorizado, divulgación, alteración y destrucción. Por favor tenga en cuenta que a pesar de nuestros mejores esfuerzos, ninguna medida de seguridad de datos puede garantizar 100% de seguridad.
+
+Usted debería tomar medidas para protegerse contra accesos no autorizados a sus contraseñas, teléfono, y por computadora, entre otras cosas, cerrando sesión después de usar una computadora compartida, eligiendo contraseñas robustas que nadie más sepa o pueda adivinar fácilmente, no usando una contraseña para más de un sitio o servicio, y manteniendo sus inicios de sesión y contraseñas de forma privada. Nosotros no somos responsables por cualquier pérdida, robo y contraseña comprometida o por cualquier actividad en su cuenta a través de actividad de contraseña no autorizada. Le pedimos notificarnos inmediatamente si está consciente que la información provista o presentada a nuestros Sitios o a través de nuestros Servicios está perdida, robada o usada sin permiso en privacy@openjsf.org.
+
+## Elecciones de marketing
+
+Usted puede excluir o retirar su consentimiento de recibir emails directos de marketing de nosotros utilizando los mecanismos de baja o exclusión incluidos en nuestros emails de marketing o enviando un mail a privacy@openjsf.org. Usted puede también darse de baja de las listas de correo a través del sitio web de subscripción de la lista de correo aplicable o, en algunos casos, usando los mecanismos de baja incluidos en dichos emails.
+
+## Retención de su información personal
+
+Nosotros generalmente guardamos la información personal sólo mientras sea requerida para cumplir los propósitos para los cuales fue recolectada. Sin embargo, en algunas circunstancias, podemos retener la información personal por otros periodos de tiempo, por ejemplo cuando se nos requiera hacerlo de acuerdo con requerimientos legales, impositivos y de contabilidad, o si se requiere hacerlo por un proceso legal, autoridad legal u otra entidad gubernamental que tenga autoridad de hacer el pedido, mientras sea requerido. En circunstancias específicas, nosotros podemos también retener su información personal por periodos de tiempo más largos correspondientes a un estatuto de limitación, para que tengamos un registro preciso de sus acuerdos con nosotros en el evento de cualquier queja o problema.
+
+## Transferencias internacionales
+
+Si usted se encuentra en el Área Económica Europea, el Reino Unido o Suiza, debería tener en cuenta que su información personal será transferida a países fuera de estas jurisdicciones, incluyendo los Estados Unidos donde se ubica la Fundación OpenJS. Estados Unidos está considerado por la Unión Europea para proporcionar protección de datos inadecuados. Sin embargo, hemos puesto en marcha las Cláusulas Contractuales Estándar aprobadas por la Comisión Europea para proporcionar los resguardos adecuados para proteger la información personal transferida fuera de estas jurisdicciones, incluyendo entre la Fundación OpenJS y los proveedores de servicios. Además, si la información personal se transfiere a proveedores de servicios de terceros ubicados fuera de estas jurisdicciones, tomaremos medidas para asegurar que su información personal reciba el mismo nivel de protección como si permaneciera dentro de estas jurisdicciones, incluyendo el acceso a los acuerdos de transferencia de datos, utilizando las Cláusulas Contractuales Estándar aprobadas por la Comisión Europea u otros resguardos aprobados por la Comisión Europea. Tiene derecho a obtener detalles del mecanismo bajo el cuál se transfiere su información personal fuera de la UE enviando un email a gdpr@openjsf.org.
+
+## Privacidad de menores
+
+Excepto como se indique específicamente dentro de un Sitio, nosotros no recolectamos o solicitamos deliberadamente información personal de alguien menor de dieciséis (16) años, ni permitimos deliberadamente el registro de estas personas. Si tomamos conocimiento de que hemos recolectado información personal de algún menor sin consentimiento parental, tomaremos medidas para eliminar esa información. Cuando indiquemos específicamente que recolectamos información personal de menores de 16 años, obtendremos el consentimiento de los padres o guardianes y proporcionaremos el aviso adecuado.
+
+## Enlaces a sitios y servicios de terceros
+
+Los Sitios pueden contener enlaces a sitios de terceros o servicios en línea. Por favor referirse a las políticas de privacidad de las páginas web o servicios de terceros relevantes para averiguar más sobre cómo procesan y manejan la información personal.
+
+## Sus derechos
+
+Acceso y enmienda. Puede contactar a nuestro coordinador de privacidad, como se establece a continuación, para acceder o enmendar su información personal.
+
+Derechos adicionales. Los individuos en el Área Económica Europea (y otras jurisdicciones donde sea aplicable) tienen derechos adicionales bajo la ley aplicable:
+
+* a obtener una copia de su información personal junto con información sobre cómo y sobre qué bases legales se procesó esa información personal;
+* a rectificar información personal imprecisa (incluyendo tener completada información personal incompleta);
+* a borrar su información personal (en circunstancias limitadas, como cuando ya no es necesaria en relación a los propósitos para los que fue recolectada o procesada);
+* a restringir el procesamiento de su información personal bajo ciertas circunstancias;
+* a exportar cierta información personal en formato legible por máquina para un tercero (o para usted) cuando justifiquemos nuestro procesamiento en base a su consentimiento o a la ejecución de un contrato con usted y el procesamiento se cumplió por medios automatizados;
+* a retirar su consentimiento a nuestro procesamiento de su información personal (donde ese procesamiento se basa en su consentimiento, sin afectar la legalidad del procesamiento basado en el consentimiento antes de su retiro);
+* a obtener, o ver una copia de los resguardos apropiados bajo los cuales se transfiere su información personal a otro país u organización internacional; y
+* a objetar nuestro uso y procesamiento de su información personal que está conducido en base a nuestro interés legítimo. También tiene el derecho de objetar en cualquier momento cualquier procesamiento de su información personal para propósitos directos de marketing, incluyendo elaboración de perfiles para propósitos de marketing.
+
+Presentar una queja. También tiene el derecho de presentar una queja con su autoridad supervisora local para protección de datos, o regulador de privacidad. Una lista de autoridades supervisoras de protección de datos está disponible [aquí](http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080).
+
+Presentar una solicitud. Para ejercer los derechos anteriores o contactarnos con preguntas o quejas respecto a nuestro tratamiento de su información personal, contáctenos en gdpr@openjsf.org. Por favor tenga en cuenta que podemos requerir pruebas de identidad, y nos reservamos el derecho de cargar honorarios donde sea permitido por la ley, especialmente si su solicitud es manifiestamente infundada o excesiva. Responderemos a su solicitud dentro de los plazos aplicables establecidos por la ley.
+
+## Derechos de privacidad de California
+
+La ley de California permite a los usuarios que son residentes de California a pedir y obtener de nosotros una vez al año, libre de cargos, una lista de los terceros a los quienes hemos difundido su información personal (si hubiese) para sus propósitos de marketing directo en el año calendario previo, asó como los tipos de información personal divulgada a esos terceros. Si usted es residente de California y le gustaría pedir esta información, por favor presente su solicitud en un email a privacy@openjsf.org. Nosotros podemos comunicarnos para verificar su residencia en California.
+
+## Contáctenos
+
+Si tiene alguna pregunta sobre nuestras prácticas o esta Política de Privacidad, por favor contáctenos en privacy@openjsf.org, o escríbanos a: OpenJS Foundation, Attn: Legal Department, 1 Letterman Drive, Building D, Suite D4700, San Francisco, CA 94129.
+
+## Cambios a la Política de Privacidad
+
+Esta política es actual desde la fecha de entrada en vigor establecida anteriormente. Si nosotros cambiamos nuestras políticas de privacidad y procedimientos, publicaremos estos cambios en esta página y/o continuaremos proporcionando acceso a una copia de la versión previa. Si hacemos algún cambio a esta Política de Privacidad que cambia materialmente cómo tratamos su información personal, procuraremos proporcionarle una noticia razonable de dichos cambios, tales como a través de noticias prominentes en nuestros Sitios o a su dirección de email de registro, y cuando sea requerido por la ley, obtendremos su consentimiento o le daremos la oportunidad de excluirse de dichos cambios.

@@ -4,7 +4,7 @@
   "author": "Node.js",
   "url": "https://nodejs.org/zh-tw/",
   "locale": "zh-tw",
-  "language": "中文 (繁體)",
+  "language": "繁體中文",
   "languageEnglishVersion": "Traditional Chinese",
   "scrollToTop": "回到頁首",
   "reportNodeIssue": "回報 Node.js 問題",
@@ -128,6 +128,10 @@
   "security": {
     "link": "security",
     "text": "安全"
+  },
+  "getcertified": {
+    "link": "https://openjsf.org/certification",
+    "text": "相關認證"
   },
   "blog": {
     "link": "blog",
